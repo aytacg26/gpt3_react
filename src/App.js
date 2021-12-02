@@ -2,7 +2,11 @@ import React from 'react';
 import './App.css';
 
 const App = () => {
-  return <div>UI/UX Design Study</div>;
+  return (
+    <div>
+      <h1>UI/UX Design Study</h1>
+    </div>
+  );
 };
 
 export default App;
