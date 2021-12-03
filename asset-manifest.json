@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gpt3_react/static/css/main.ba56d32f.chunk.css",
-    "main.js": "/gpt3_react/static/js/main.779303ba.chunk.js",
-    "main.js.map": "/gpt3_react/static/js/main.779303ba.chunk.js.map",
+    "main.js": "/gpt3_react/static/js/main.9573062f.chunk.js",
+    "main.js.map": "/gpt3_react/static/js/main.9573062f.chunk.js.map",
     "runtime-main.js": "/gpt3_react/static/js/runtime-main.70864183.js",
     "runtime-main.js.map": "/gpt3_react/static/js/runtime-main.70864183.js.map",
     "static/js/2.d3bca66e.chunk.js": "/gpt3_react/static/js/2.d3bca66e.chunk.js",
@@ -10,20 +10,19 @@
     "index.html": "/gpt3_react/index.html",
     "static/css/main.ba56d32f.chunk.css.map": "/gpt3_react/static/css/main.ba56d32f.chunk.css.map",
     "static/js/2.d3bca66e.chunk.js.LICENSE.txt": "/gpt3_react/static/js/2.d3bca66e.chunk.js.LICENSE.txt",
-    "static/media/ai.aa60586b.png": "/gpt3_react/static/media/ai.aa60586b.png",
-    "static/media/blog01.cefc0932.png": "/gpt3_react/static/media/blog01.cefc0932.png",
-    "static/media/blog02.ab0eb367.png": "/gpt3_react/static/media/blog02.ab0eb367.png",
-    "static/media/blog03.d9223238.png": "/gpt3_react/static/media/blog03.d9223238.png",
-    "static/media/blog04.742c1357.png": "/gpt3_react/static/media/blog04.742c1357.png",
-    "static/media/blog05.bfaa1c1e.png": "/gpt3_react/static/media/blog05.bfaa1c1e.png",
+    "static/media/ai.3d0b6704.png": "/gpt3_react/static/media/ai.3d0b6704.png",
+    "static/media/blog01.f3b8e899.png": "/gpt3_react/static/media/blog01.f3b8e899.png",
+    "static/media/blog02.b56223cd.png": "/gpt3_react/static/media/blog02.b56223cd.png",
+    "static/media/blog03.543ed959.png": "/gpt3_react/static/media/blog03.543ed959.png",
+    "static/media/blog04.66d5aadb.png": "/gpt3_react/static/media/blog04.66d5aadb.png",
+    "static/media/blog05.2127b49b.png": "/gpt3_react/static/media/blog05.2127b49b.png",
     "static/media/logo.5114679f.svg": "/gpt3_react/static/media/logo.5114679f.svg",
-    "static/media/people.5cd2d6fb.png": "/gpt3_react/static/media/people.5cd2d6fb.png",
-    "static/media/possibility.525f13b6.png": "/gpt3_react/static/media/possibility.525f13b6.png"
+    "static/media/possibility.b56cb0f4.png": "/gpt3_react/static/media/possibility.b56cb0f4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.70864183.js",
     "static/js/2.d3bca66e.chunk.js",
     "static/css/main.ba56d32f.chunk.css",
-    "static/js/main.779303ba.chunk.js"
+    "static/js/main.9573062f.chunk.js"
   ]
 }
